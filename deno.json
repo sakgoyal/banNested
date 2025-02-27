@@ -1,6 +1,7 @@
 {
 	"name": "@sakgoyal/ban-nested",
-	"version": "1.0.0",
+	"description": "Ban nested ternaries in deno linting rules",
+	"version": "1.0.1",
 	"license": "MIT",
 	"exports": "./plugin.ts",
 	"lint": {
